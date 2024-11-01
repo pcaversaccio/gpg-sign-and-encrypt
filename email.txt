@@ -1,0 +1,9 @@
+To: recipient@example.com
+Subject: My Signed and Encrypted Email
+
+Hello,
+
+this is a test email signed and encrypted with GPG.
+
+Best,
+Your Name
